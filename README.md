@@ -82,6 +82,6 @@ Fullstack app (Django + React) for file management. Includes auth, upload/delete
 
 ## 📬 Contact
 
-- Telegram: [@yourhandle](https://t.me/yourhandle)  
-- Email: youremail@example.com  
+- Telegram: [@nutamarusina](https://t.me/nutamarusina)  
+- Email: an.marusina2010@yandex.ru  
 - GitHub: [github.com/MarusinaAnn](https://github.com/MarusinaAnn)
