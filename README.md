@@ -37,8 +37,8 @@ Fullstack-приложение на Django + React. Функции: регист
 
 ## 📬 Контакты
 
-- Telegram: [@твойник](https://t.me/твойник)  
-- Email: youremail@example.com  
+- Telegram: [@nutamarusina](https://t.me/nutamarusina)  
+- Email: an.marusina2010@yandex.ru  
 - GitHub: [github.com/MarusinaAnn](https://github.com/MarusinaAnn)
 
 ---
