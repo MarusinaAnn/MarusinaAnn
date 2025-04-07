@@ -24,12 +24,6 @@
 
 ## 📂 Проекты
 
-### 🧩 [Расширение для проверки ДЗ](https://github.com/MarusinaAnn/homework-review-helper-)  
-Инструмент для быстрой вставки шаблонов, баллов и эталонных решений. Ускоряет процесс проверки в edtech-среде.
-
-### 🎓 [Интерфейс платформы наставников](https://github.com/MarusinaAnn/mentor-platform-ui)  
-Адаптивная вёрстка одного из внутренних экранов платформы. Выполнено по макету из Figma, с интерактивом на JS.
-
 ### ☁️ [Диплом: Облачное хранилище](https://github.com/MarusinaAnn/Diploma)  
 Fullstack-приложение на Django + React. Функции: регистрация, авторизация, загрузка/удаление файлов, SPA-интерфейс.
 
@@ -68,12 +62,6 @@ Combining development and no-code to deliver fast, efficient solutions.
 ---
 
 ## 📂 Projects
-
-### 🧩 [Homework Review Extension](https://github.com/MarusinaAnn/homework-review-helper-)  
-Chrome tool for automating template-based grading in edtech. Generates ready-to-paste answers in one click.
-
-### 🎓 [Mentor Platform UI](https://github.com/MarusinaAnn/mentor-platform-ui)  
-Responsive layout of a dashboard screen based on Figma design. Built with clean HTML/CSS and JS for interactions.
 
 ### ☁️ [Diploma: My Cloud Storage](https://github.com/MarusinaAnn/Diploma)  
 Fullstack app (Django + React) for file management. Includes auth, upload/delete, and a clean SPA interface.
